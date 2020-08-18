@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="you">You</string>
+    <string name="stone">stone</string>
+    <string name="button">Button</string>
+    <string name="papper">papper</string>
+    <string name="computer">Computer :</string>
+    <string name="temp">play with we</string>
+    <string name="let_s_play">Let\'s play !!!</string>
+    <string name="you_win">You win</string>
+    <string name="play">play</string>
+    <string name="random" >random</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bill organizer</string>
+    <string name="CommodityName">商品名稱:</string>
+    <string name="StoreName">輸入店家名稱</string>
+    <string name="add_btn">新增</string>
+    <string name="modify_btn">修改</string>
+</resources>
